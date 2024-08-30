@@ -16,7 +16,7 @@
 
 **Let's Connect:**
 
-* 🌐 Visit my portfolio: [Your Portfolio Link] (Ensure it starts with "https://")
+* 🌐 Visit my portfolio: https://eloirdiwi.free.nf
 * 📫 You can reach me at: [Your Email Address]
 * 💼 Let's connect on LinkedIn: [Your LinkedIn Profile URL]
 * 🐦 Find me on Twitter: [Your Twitter Handle] (Optional)
