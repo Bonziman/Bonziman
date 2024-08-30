@@ -19,27 +19,9 @@
 * 🌐 Visit my portfolio: https://eloirdiwi.free.nf
 * 📫 You can reach me at: eloirdiwi@gmail.com
 * 💼 Let's connect on LinkedIn: [Aymane Eloirdiwi](https://www.linkedin.com/in/el-oirdiwi-aymane/)
-* 🐦 Find me on Twitter: [Your Twitter Handle] (Optional)
 
 **My Interests & Contributions:**
 
 * 🔭 I’m currently working on the **Airbnb_clone Project Series:** A comprehensive series of projects focused on building a full-stack clone of the popular Airbnb platform. Check out the individual repositories on my profile!
-* 🌱 I’m currently learning: [What You're Learning]
-* 🤔 I’m looking for help with: [What You Need Help With]
-* 💬 Ask me about: [What You're Open to Discussing]
-* ⚡ Fun fact: [Something Interesting About You]
 
 
-**Featured Projects:**
-* **Airbnb_clone Project Series:**
-   * [Repo 1 Link]([Link to Repo 1]): [Short Description]
-   * [Repo 2 Link]([Link to Repo 2]): [Short Description] 
-   * (Continue for other repos in the series)
-
-* (Add other notable projects outside of the series)
-
-**Open Source Contributions:**
-
-* (List any open source projects you've contributed to)
-
-**Let's collaborate and build amazing things together!** 
