@@ -2,11 +2,11 @@
 
 👋 Hello! I'm Aymane, a Software Engineer passionate about building innovative and impactful software solutions. You can find me on GitHub as [@Bonziman](https://github.com/Bonziman).
 
-[Your Profile Picture]
+
 
 **Languages & Tools:**
 
-[Your Preferred Language & Tools Icons]
+
 
 **My GitHub Stats:**
 
