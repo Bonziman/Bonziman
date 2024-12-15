@@ -16,7 +16,7 @@
 
 **Let's Connect:**
 
-* 🌐 Visit my portfolio: https://eloirdiwi.free.nf
+* 🌐 Visit my portfolio: https://eloirdiwi.me
 * 📫 You can reach me at: eloirdiwi@gmail.com
 * 💼 Let's connect on LinkedIn: [Aymane Eloirdiwi](https://www.linkedin.com/in/el-oirdiwi-aymane/)
 
